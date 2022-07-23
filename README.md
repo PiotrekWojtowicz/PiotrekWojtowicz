@@ -1,2 +1,3 @@
-![Hey there, I'm Peter and I'm an aspiring software developer.]
+# 👋 &nbsp;Hi there
+Hey there, I'm Peter and I'm an aspiring software developer.
 [![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; [![Reddit](https://img.shields.io/reddit/user-karma/combined/MarekBekied?color=%23ddd&label=REDDIT%20KARMA&style=for-the-badge)](https://www.reddit.com/user/MarekBekied) &nbsp; [![LinkedIn]()
