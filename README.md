@@ -16,10 +16,11 @@ In free time i enjoy writing about interesting concepts in computer architecture
 - [Connection between loop iteration and locality](https://medium.com/@piotrkowo21/the-connection-between-locality-cache-and-loop-iterations-3bbd18801dc5)
 <!-- BLOG-POST-LIST:END -->
 ##  📕&nbsp;My toolbox
+My story with programming began during my highschool's years. Since then, bit by bit (get that?), i took steps towards becoming a real software engineer. Here is of tools i use or study about on daily basis.
 [![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)](https://github.com/PiotrekWojtowicz)
 
 ## 📊 &nbsp;Stats
 
 ![Peter's Github Stats](https://github-readme-stats.vercel.app/api?username=PiotrekWojtowicz&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiotrekWojtowicz&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6):w
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiotrekWojtowicz&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
