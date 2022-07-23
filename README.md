@@ -2,6 +2,17 @@
 Hey there, I'm Peter and I'm an aspiring software developer. Interested in everything thats too complicated for me. I love linux everything around and inside of it. For more check out my socials as well as [website](https://piotrekwojtowicz.github.io).
 
 [![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ##  📪 &nbsp; How to reach me
 Business requests: [maill me!](piotrekwjtowicz@yahoo.pl)
