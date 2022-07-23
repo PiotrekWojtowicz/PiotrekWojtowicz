@@ -17,6 +17,7 @@ In free time i enjoy writing about interesting concepts in computer architecture
 <!-- BLOG-POST-LIST:END -->
 ##  📕&nbsp;My toolbox
 My story with programming began during my highschool's years. Since then, bit by bit (get that?), i took steps towards becoming a real software engineer. Here is of tools i use or study about on daily basis.
+
 [![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)](https://github.com/PiotrekWojtowicz)
 
 ## 📊 &nbsp;Stats
