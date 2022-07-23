@@ -9,7 +9,5 @@ Hey there, I'm Peter and I'm an aspiring software developer. I'm interested in e
 - [Connection between loop iteration and locality](https://medium.com/@piotrkowo21/the-connection-between-locality-cache-and-loop-iterations-3bbd18801dc5)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
-
-## 🧰 &nbsp;My toolbox
-
-[![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)]
+##  📕&nbsp;My toolbox
+[![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)](https://github.com/PiotrekWojtowicz)
