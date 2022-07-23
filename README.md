@@ -1,7 +1,7 @@
 # 👋 &nbsp;Hi there
 Hey there, I'm Peter and I'm an aspiring software developer. Interested in everything thats too complicated for me. I love linux everything around and inside of it. For more check out my socials as well as [website](https://piotrekwojtowicz.github.io).
 
-[![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; 
+Go ahead and become one of my [![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; 
 
 ##  📪 &nbsp; How to reach me
 Business requests: [maill me!](piotrekwjtowicz@yahoo.pl)
@@ -16,7 +16,7 @@ In free time i enjoy writing about interesting concepts in computer architecture
 - [Connection between loop iteration and locality](https://medium.com/@piotrkowo21/the-connection-between-locality-cache-and-loop-iterations-3bbd18801dc5)
 <!-- BLOG-POST-LIST:END -->
 ##  📕&nbsp;My toolbox
-My story with programming began during my highschool's years. Since then, bit by bit (get that?), i took steps towards becoming a real software engineer. Here is of tools i use or study about on daily basis.
+My story with programming began during my highschool's years. Since then, bit by bit (get that?), i took steps towards becoming a real software engineer. Here is some of tools i use or study about on daily basis.
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)](https://github.com/PiotrekWojtowicz)
 
