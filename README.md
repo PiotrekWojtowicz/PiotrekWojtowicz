@@ -1,3 +1,4 @@
 # 👋 &nbsp;Hi there
-Hey there, I'm Peter and I'm an aspiring software developer.
-[![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; [![Reddit](https://img.shields.io/reddit/user-karma/combined/MarekBekied?color=%23ddd&label=REDDIT%20KARMA&style=for-the-badge)](https://www.reddit.com/user/MarekBekied) &nbsp; [![LinkedIn]()
+Hey there, I'm Peter and I'm an aspiring software developer. I'm interested in everything thats too complicated for me. I love linux and everything around and inside of it. For more check out my socials as well as website.
+
+[![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; [![Reddit User](https://img.shields.io/reddit/user-karma/combined/MarekBekied?color=%23ddd&logo=Reddit&label=REDDIT%20KARMA&style=for-the-badge)](https://www.reddit.com/user/MarekBekied) &nbsp; [![LinkedIn]()
