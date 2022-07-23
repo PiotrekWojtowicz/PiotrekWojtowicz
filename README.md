@@ -1,7 +1,7 @@
 # 👋 &nbsp;Hi there
 Hey there, I'm Peter and I'm an aspiring software developer. Interested in everything thats too complicated for me. I love linux everything around and inside of it. For more check out my socials as well as [website](https://piotrekwojtowicz.github.io).
 
-Go ahead and become one of my
+Go ahead and become one of my&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; 
 
 ##  📪 &nbsp; How to reach me
