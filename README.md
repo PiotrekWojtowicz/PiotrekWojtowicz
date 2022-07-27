@@ -17,7 +17,7 @@ In free time i enjoy writing about interesting concepts in computer architecture
 - [Connection between loop iteration and locality](https://medium.com/@piotrkowo21/the-connection-between-locality-cache-and-loop-iterations-3bbd18801dc5)
 <!-- BLOG-POST-LIST:END -->
 ##  📕&nbsp;My toolbox
-My story with programming began during my highschool's years. Since then, bit by bit (got that?), i took steps towards becoming a real software engineer. Here is some of tools i use or study about on daily basis.
+My story with programming began during my highschool's years. Since then, bit by bit (got that?), i took steps towards becoming a real software engineer. Here are some of tools i use or study about on daily basis.
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)](https://github.com/PiotrekWojtowicz)
 
