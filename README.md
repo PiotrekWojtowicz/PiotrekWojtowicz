@@ -12,12 +12,12 @@ Business requests: [maill me!](piotrekwjtowicz@yahoo.pl)
   </a>
 
 ## ✏️ &nbsp;Blog posts
-In free time i enjoy writing about interesting concepts in computer architecture. Here's some of my posts:
+In free time I enjoy writing about interesting concepts in computer architecture. Here's some of my posts:
 <!-- BLOG-POST-LIST:START -->
 - [Connection between loop iteration and locality](https://medium.com/@piotrkowo21/the-connection-between-locality-cache-and-loop-iterations-3bbd18801dc5)
 <!-- BLOG-POST-LIST:END -->
 ##  📕&nbsp;My toolbox
-My story with programming began during my highschool's years. Since then, bit by bit (got that?), i took steps towards becoming a real software engineer. Here are some of tools i use or study about on daily basis.
+My story with programming began during my highschool's years. Since then, bit by bit, I took steps towards becoming a real software engineer. Here are some of tools I use or study about on daily basis.
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)](https://github.com/PiotrekWojtowicz)
 
