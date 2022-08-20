@@ -18,7 +18,7 @@ In free time I enjoy writing about interesting concepts in computer architecture
 - [LRU breakdown](https://medium.com/@piotrkowo21/lru-algorithm-breakdown-f9ac0db33480)
 <!-- BLOG-POST-LIST:END -->
 ##  📕&nbsp;My toolbox
-My story with programming began during my highschool's years. Since then, bit by bit, I took steps towards becoming a real software engineer. Here are some of tools I use or study about on daily basis.
+My story with programming began during my highschool's years. Since then, bit by bit, I took steps towards becoming a real software engineer. Here are some of tools I use on daily basis.
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cs,cpp,git,docker,py,vim&theme=light)](https://github.com/PiotrekWojtowicz)
 
