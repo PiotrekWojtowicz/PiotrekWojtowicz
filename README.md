@@ -5,7 +5,7 @@ Go ahead and become one of my
 [![GitHub followers](https://img.shields.io/github/followers/PiotrekWojtowicz?color=%23ddd&logo=GitHub&style=for-the-badge)](https://github.com/PiotrekWojtowicz) &nbsp; 
 
 ##  📪 &nbsp; How to reach me
-Business requests: [maill me!](piotrekwjtowicz@yahoo.pl)
+Business requests: maill me! <piotrekwjtowicz@yahoo.pl>
 
 [![Website](https://img.shields.io/badge/Website-LINK-%23ddd?color=%23ddd&logo=Web&label=WEBSITE&style=for-the-badge)](https://piotrekwojtowicz.github.io) &nbsp;  <a href="https://www.linkedin.com/in/piotr-w%C3%B3jtowicz-aba719219">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
